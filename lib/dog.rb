@@ -5,3 +5,4 @@ class Dog
   @snoopy = snoopy
   @lassie = lassie 
 end
+end 
